@@ -25,12 +25,12 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Anurag Jain',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Entrepreneur, Hobbyist',
     contacts: {
-      email: '',
-      facebook: '#',
+      email: 'mindsarray@gmail.com',
+      facebook: 'facebook.com/anuragj',
       telegram: '#',
       twitter: '#',
       github: '#',
