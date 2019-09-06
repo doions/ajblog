@@ -36,7 +36,7 @@ module.exports = {
       github: 'doions',
       rss: '',
       vkontakte: '',
-      linkedin: 'https://www.linkedin.com/in/mindsarray/',
+      linkedin: 'mindsarray',
       instagram: 'somecrazyname_',
       line: '',
       gitlab: '',
