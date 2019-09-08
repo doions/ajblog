@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Personal Website of Anurag Jain',
+  subtitle: 'Entrepreneur, hobbyist, father of Ahaan Jain, founder myty, pay1, mindsarray, local photographer ',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
