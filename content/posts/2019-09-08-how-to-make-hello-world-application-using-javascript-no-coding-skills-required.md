@@ -4,7 +4,7 @@ title: >-
   How to make hello world application using javascript - no coding skills
   required
 slug: javascript-hello-world
-draft: false
+draft: true
 date: 2019-09-08T09:28:50.322Z
 description: |-
   Learn how to make a Hello World Application using javascript.
