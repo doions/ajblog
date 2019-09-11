@@ -2,6 +2,6 @@
 template: page
 title: Contact me
 slug: pages/contacts
-draft: true
+draft: false
 ---
 Email : mindsarray @ gmail . com
