@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://a-j.io/',
   pathPrefix: '/',
   title: 'Personal Website of Anurag Jain',
   subtitle: 'Entrepreneur, hobbyist, father of Ahaan Jain, founder myty, pay1, mindsarray, local photographer ',
