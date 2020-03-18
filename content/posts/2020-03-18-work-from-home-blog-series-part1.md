@@ -2,7 +2,7 @@
 template: post
 title: Work from Home | Blog series Part1
 slug: work-from-home
-draft: true
+draft: false
 date: 2020-03-18T14:16:49.184Z
 description: >-
   This series of the blog is about the finding solution to the problems of work
