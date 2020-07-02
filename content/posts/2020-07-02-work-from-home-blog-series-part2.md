@@ -2,7 +2,7 @@
 template: post
 title: Work from Home | Blog series Part2
 slug: work-from-home-part2
-draft: true
+draft: false
 date: 2020-07-02T11:02:16.374Z
 description: |
   Work from home basic challenges faced in India.
